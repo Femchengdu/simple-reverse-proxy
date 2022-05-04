@@ -1,1 +1,1 @@
-# Simple reverse proxy using nginx to test with kubernetes container
+# Simple reverse proxy using nginx to test with kubernetes container.
